@@ -1,7 +1,7 @@
 # ImageClef-2020-DrawnUI
 Detecting UI elements from hand drawn UI sketches.
 Team Name : CudaMemError1
-![image](https://www.imageclef.org/system/files/sample.jpg =250x250)
+![image](https://www.imageclef.org/system/files/sample.jpg | width=250)
 - Challenge Details: https://www.imageclef.org/2020/drawnui
 - Conference link: https://clef2020.clef-initiative.eu/
 - https://www.aicrowd.com/challenges/imageclef-2020-drawnui/leaderboards
