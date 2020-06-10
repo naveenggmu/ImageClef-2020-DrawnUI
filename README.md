@@ -16,7 +16,7 @@ https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects
 - Get the data from clef challenge website:
 https://www.aicrowd.com/clef_tasks/28/task_dataset_files?challenge_id=219
 
--Follow section 3 and 4 in notebooks to run and get results and converted submission files for the challenge.
+- Follow section 3 and 4 in notebooks to run and get results and converted submission files for the challenge.
 
 | Model  | mAP 0.5 |
 | ------------- | ------------- |
