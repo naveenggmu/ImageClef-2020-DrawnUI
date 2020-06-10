@@ -7,3 +7,14 @@ https://www.aicrowd.com/challenges/imageclef-2020-drawnui/leaderboards
 Placed 2nd in this challenge 
 
 All the scripts used for this challenge is available here.
+
+## Instructions to run yolo:
+Setup the config and data folders as instructed in the yolov4 repository
+
+https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects
+
+Get the data from clef challenge website:
+
+https://www.aicrowd.com/clef_tasks/28/task_dataset_files?challenge_id=219
+
+Follow section 3 and 4 in notebooks to run and get results and converted submission files for the challenge.
