@@ -4,8 +4,8 @@ Team Name : CudaMemError1
 
 - Challenge Details: https://www.imageclef.org/2020/drawnui
 - Conference link: https://clef2020.clef-initiative.eu/
-- https://www.aicrowd.com/challenges/imageclef-2020-drawnui/leaderboards
-Placed 2nd in this challenge 
+- Placed 2nd in this challenge: https://www.aicrowd.com/challenges/imageclef-2020-drawnui/leaderboards
+ 
 
 ## Instructions to run yolo:
 - Run init in repos directory to clone the repo.
