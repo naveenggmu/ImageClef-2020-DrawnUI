@@ -2,7 +2,8 @@
 Detecting UI elements from hand drawn UI sketches.
 Team Name : CudaMemError1
 
-    Article: ceur-ws.org/Vol-2696/paper_61.pdf
+- Article: ceur-ws.org/Vol-2696/paper_61.pdf
+
 ```
 @article{narayanandeep,
   title={Deep Learning for UI Element Detection: DrawnUI 2020},
