@@ -2,6 +2,14 @@
 Detecting UI elements from hand drawn UI sketches.
 Team Name : CudaMemError1
 
+    Article: ceur-ws.org/Vol-2696/paper_61.pdf
+```
+@article{narayanandeep,
+  title={Deep Learning for UI Element Detection: DrawnUI 2020},
+  author={Narayanan, Naveen and Balaji, Nitin Nikamanth Appiah and Jaganathan, Kavya}
+}
+```
+
 - Challenge Details: https://www.imageclef.org/2020/drawnui
 - Conference link: https://clef2020.clef-initiative.eu/
 - Placed 2nd in this challenge: https://www.aicrowd.com/challenges/imageclef-2020-drawnui/leaderboards
